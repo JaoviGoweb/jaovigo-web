@@ -140,3 +140,36 @@ La plataforma JaoviGo simboliza una movilidad con propósito, conectando tecnolo
 ## 📞 Contacto
 
 Cuenta oficial del repositorio: **[jaovigoapp@gmail.com](mailto:jaovigoapp@gmail.com)**
+
+Cuenta oficial del repositorio: **[jaovigoapp@gmail.com](mailto:jaovigoapp@gmail.com)**
+
+---
+
+## 📄 Licencia
+
+Este proyecto está protegido bajo la **Apache License 2.0**.
+Puedes usar, modificar y distribuir el código respetando los términos establecidos en la licencia.
+
+## 📝 Commit Inicial
+
+**Mensaje corto del commit:**
+
+```
+feat: estructura base inicial de JaoviGo Web con Vite + React + TS
+```
+
+**Descripción extendida:**
+
+```
+Creación del proyecto JaoviGo Web utilizando Vite + React + TypeScript.
+
+Incluye:
+- Configuración inicial del entorno.
+- Estructura base de carpetas.
+- Integración preliminar de TailwindCSS y Shadcn/UI.
+- Primera versión del README oficial.
+- Roadmap técnico y funcional inicial del ecosistema JaoviGo.
+- Inclusión de la licencia Apache 2.0.
+
+Este commit establece los cimientos del desarrollo completo de la plataforma cuántica JaoviGo Web.
+```
